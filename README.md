@@ -16,4 +16,11 @@
 ## Import test train split 
 ![Screenshot (107)](https://github.com/jhansolo33/Cars-Distance_Analysis/assets/119264589/47cbb87d-5688-4745-8f84-6a4e9fcf19b2)
 
+## Fit linear Regression to training set and Vizualize training set
+![Screenshot (109)](https://github.com/jhansolo33/Cars-Distance_Analysis/assets/119264589/b1f382bd-5696-409e-a624-14b0867ec52e)
 
+##  Results
+The data shows a very consistent correlation between Price and Distance(miles.)  There were very few "outliers" that deviated from the majority of the 7800+ vehicles in the dataset.  There is a nearly perfect relationship between the two variables.  As the number of miles(Distance) increases, the Price that is being asked for the car, decreases.
+
+# Summary
+When people are shopping to purchase a car, they can be confident that the car is reasonably priced and it will be apparently obvious if the car is underpriced or overpriced.
